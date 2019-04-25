@@ -1,0 +1,320 @@
+{
+  "A": {
+    "Maria Pomarańska": {
+      "Math": {
+        "scores": [
+          5,
+          5,
+          6
+        ],
+        "attendance": 3
+      },
+      "English": {
+        "scores": [
+          1,
+          2,
+          3
+        ],
+        "attendance": 3
+      },
+      "History": {
+        "scores": [
+          4,
+          5,
+          5
+        ],
+        "attendance": 6
+      }
+    },
+    "John Smith": {
+      "Math": {
+        "scores": [
+          4,
+          6,
+          1
+        ],
+        "attendance": 9
+      },
+      "English": {
+        "scores": [
+          3,
+          5,
+          6
+        ],
+        "attendance": 7
+      },
+      "History": {
+        "scores": [
+          1,
+          1,
+          2
+        ],
+        "attendance": 4
+      }
+    },
+    "Jack Johnson": {
+      "Math": {
+        "scores": [
+          5,
+          5,
+          4
+        ],
+        "attendance": 3
+      },
+      "English": {
+        "scores": [
+          4,
+          5,
+          3
+        ],
+        "attendance": 4
+      },
+      "History": {
+        "scores": [
+          4,
+          4,
+          4
+        ],
+        "attendance": 5
+      }
+    },
+    "Joe Bun": {
+      "Math": {
+        "scores": [
+          2,
+          3,
+          6
+        ],
+        "attendance": 3
+      },
+      "English": {
+        "scores": [
+          5,
+          5,
+          5
+        ],
+        "attendance": 4
+      },
+      "History": {
+        "scores": [
+          3,
+          2,
+          1
+        ],
+        "attendance": 3
+      }
+    }
+  },
+  "B": {
+    "Steve Jobs": {
+      "Math": {
+        "scores": [
+          6,
+          4,
+          3
+        ],
+        "attendance": 3
+      },
+      "English": {
+        "scores": [
+          4,
+          3,
+          2
+        ],
+        "attendance": 1
+      },
+      "History": {
+        "scores": [
+          1,
+          1,
+          1
+        ],
+        "attendance": 5
+      }
+    },
+    "Katy Perry": {
+      "Math": {
+        "scores": [
+          3,
+          2,
+          1
+        ],
+        "attendance": 4
+      },
+      "English": {
+        "scores": [
+          1,
+          2,
+          4
+        ],
+        "attendance": 9
+      },
+      "History": {
+        "scores": [
+          5,
+          6,
+          6
+        ],
+        "attendance": 2
+      }
+    },
+    "Jake O'Brien": {
+      "Math": {
+        "scores": [
+          2,
+          2,
+          4
+        ],
+        "attendance": 6
+      },
+      "English": {
+        "scores": [
+          2,
+          2,
+          2
+        ],
+        "attendance": 2
+      },
+      "History": {
+        "scores": [
+          4,
+          5,
+          2
+        ],
+        "attendance": 3
+      }
+    },
+    "Megan Fox": {
+      "Math": {
+        "scores": [
+          4,
+          4,
+          4
+        ],
+        "attendance": 5
+      },
+      "English": {
+        "scores": [
+          2,
+          2,
+          2
+        ],
+        "attendance": 3
+      },
+      "History": {
+        "scores": [
+          5,
+          5,
+          4
+        ],
+        "attendance": 4
+      }
+    }
+  },
+  "C": {
+    "Harry Potter": {
+      "Math": {
+        "scores": [
+          4,
+          4,
+          3
+        ],
+        "attendance": 5
+      },
+      "English": {
+        "scores": [
+          3,
+          2,
+          1
+        ],
+        "attendance": 6
+      },
+      "History": {
+        "scores": [
+          3,
+          2,
+          1
+        ],
+        "attendance": 9
+      }
+    },
+    "Hermiona Granger": {
+      "Math": {
+        "scores": [
+          4,
+          3,
+          2
+        ],
+        "attendance": 2
+      },
+      "English": {
+        "scores": [
+          2,
+          4,
+          6
+        ],
+        "attendance": 3
+      },
+      "History": {
+        "scores": [
+          5,
+          5,
+          5
+        ],
+        "attendance": 3
+      }
+    },
+    "Ron Weasly": {
+      "Math": {
+        "scores": [
+          2,
+          3,
+          6
+        ],
+        "attendance": 3
+      },
+      "English": {
+        "scores": [
+          5,
+          5,
+          5
+        ],
+        "attendance": 4
+      },
+      "History": {
+        "scores": [
+          3,
+          2,
+          1
+        ],
+        "attendance": 3
+      }
+    },
+    "Albus Dumbledore": {
+      "Math": {
+        "scores": [
+          5,
+          5,
+          5
+        ],
+        "attendance": 5
+      },
+      "English": {
+        "scores": [
+          1,
+          1,
+          2
+        ],
+        "attendance": 3
+      },
+      "History": {
+        "scores": [
+          2,
+          3,
+          4
+        ],
+        "attendance": 4
+      }
+    }
+  }
+}
